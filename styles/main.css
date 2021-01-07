@@ -1,0 +1,24 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rep__info-name {
+  font-weight: bold;
+  color: darkolivegreen;
+}
+
+.rep__comittee-title {
+  font-weight: bold;
+  color: darkgoldenrod;
+}
+
+.comittee {
+  font-size: 11px;
+  padding: 3px;
+}
+.rep__info-party {
+  font-style: italic;
+}
